@@ -1,7 +1,6 @@
 <?php 
     define("PAGE_TITLE", "Retrobutiken");
     include "header.php";
-    
 ?>
 
   <body id="page-top">
